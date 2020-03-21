@@ -1,0 +1,13 @@
+{
+  "definitions" : {
+    "Award" : {
+      "properties" : {
+        "hasProposal" : {
+          "title" : "Proposal",
+          "description" : "A boolean value that informs if the organization provided a cost proposal",
+          "type" : ["boolean", "null"]
+        }
+      }
+    }
+  }
+}
